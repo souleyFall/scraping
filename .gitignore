@@ -68,6 +68,10 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+# Project generated files
+hockey_teams.db
+hockey_teams.json
+
 # Sphinx documentation
 docs/_build/
 
